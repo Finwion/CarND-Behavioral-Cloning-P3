@@ -13,11 +13,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: model.png "Model"
-[image2]: angles_original.png "Original Udacity Dataset - Angles"
-[image3]: angles_normalized.png "Normalized - Angles"
-[image4]: run1/2017_02_24_04_33_19_970.jpg "Curve with Dirt Road"
-[image5]: loss.png "Model Mean Squared Error Loss"
+[image1]: ./images/model.png "Model"
+[image2]: ./images/angles_original.png "Original Udacity Dataset - Angles"
+[image3]: ./images/angles_normalized.png "Normalized - Angles"
+[image4]: ./images/2017_02_24_04_33_19_970.jpg "Curve with Dirt Road"
+[image5]: ./images/loss.png "Model Mean Squared Error Loss"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
