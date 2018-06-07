@@ -75,6 +75,7 @@ The overall strategy for deriving a model architecture was to first start with a
 I used the NVIDIA architecture as it was proven for learning to drive on a road.
 
 I used the center camera images at first and also used a generator for training the model. Unfortunately, it did not handle the steep curves very well. The curve after the bridge in track 1 was the most problematic as the car would just drive into the dirt instead of executing a steep turn to the left. 
+
 ![Curve after bridge][image4]
 
 The left and right images were also used with a offset to the angle data as well as flipping all the center images and angles.
